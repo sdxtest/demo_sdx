@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="appu" location="/scratch/11/appu" platform="/proj/xbuilds/2019.1_0205_1/installs/lin64/SDx/2019.1/platforms/zc702/zc702.xpfm" platformUID="xilinx.com:zc702:zc702:1.0" systemProject="appu_system" sysConfig="linux" runtime="C/C++" cpu="linux" cpuInstance="" os="linux">
+  <configuration name="Debug" id="xilinx.gnu.armv7.linux.exe.debug.979938976" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.linux.exe.release.1198581442" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="linux_hello_world"/>
+</sdkproject:SdkProject>
